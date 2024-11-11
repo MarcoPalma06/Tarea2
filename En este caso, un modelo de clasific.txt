@@ -1,0 +1,12 @@
+En este caso, un modelo de clasificación binaria es apropiado, ya que el objetivo es decidir si un dispositivo necesita ser reparado o reemplazado. Opciones como los 
+árboles de decisión y los forests randome brindan interpretabilidad y precisión, mientras que la regresión logística y las redes neuronales pueden resultar útiles 
+según la complejidad de los datos.
+
+Un modelo de clasificación binaria es apropiado porque simplifica una decisión binaria de reparación o reemplazo. Modelos como los árboles de decisión y los bosques 
+aleatorios son eficaces para manejar datos complejos y categóricos, mientras que las redes neuronales pueden capturar relaciones más profundas si los datos son complejos.
+
+A diferencia de la programación tradicional, en el machine learning el modelo aprende de los datos en lugar de seguir reglas explícitas. Este enfoque implica 
+tareas como el preprocesamiento, la selección de funciones y el ajuste del modelo, y se adapta y mejora en función de la cantidad de datos, a diferencia del código fijo.
+
+Los modelos de machin learning rara vez alcanzan una precisión del 100% debido a datos, la necesidad de generalización, relaciones 
+complejas entre variables. Además, siempre existe cierta incertidumbre a los datos que dificulta hacer una predicción perfecta.
